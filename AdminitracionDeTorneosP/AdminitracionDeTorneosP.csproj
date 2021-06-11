@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E0AA9C9-7A3A-4890-AC33-739804398AE2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AdminitracionDeTorneosP</RootNamespace>
+    <AssemblyName>AdminitracionDeTorneosP</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database\AdministraciónDeJornadasDB.cs" />
+    <Compile Include="Database\AlquilerCanchaDB.cs" />
+    <Compile Include="Database\AmonestacionDB.cs" />
+    <Compile Include="Database\Arbitro_PartidoDB.cs" />
+    <Compile Include="Database\CAMBIO_DB.cs" />
+    <Compile Include="Database\CANCHA_DB.cs" />
+    <Compile Include="Database\ClienteDB.cs" />
+    <Compile Include="Database\coachDB.cs" />
+    <Compile Include="Database\detallesPartidoDB.cs" />
+    <Compile Include="Database\disponibilidadCanchaDB.cs" />
+    <Compile Include="Database\EQUIPO_TORNEODB.cs" />
+    <Compile Include="Database\EUIPO_DB.cs" />
+    <Compile Include="Database\GOLEADOR_BD.cs" />
+    <Compile Include="Database\HorarioDB.cs" />
+    <Compile Include="Database\JUGADORES_DB.cs" />
+    <Compile Include="Database\LoginDB.cs" />
+    <Compile Include="Database\PAGOS_TARGETAS_DB.cs" />
+    <Compile Include="Database\PartidoDB.cs" />
+    <Compile Include="Database\PUNTEO_GENERAL_DB.cs" />
+    <Compile Include="Database\refereeDB.cs" />
+    <Compile Include="Database\Registro_AmonestacionDB.cs" />
+    <Compile Include="Database\reportesLourdes.cs" />
+    <Compile Include="Database\REPORTE_EQUIPO_LOCAL_DB.cs" />
+    <Compile Include="Database\Reporte_EstadisticasDelEquipoDB.cs" />
+    <Compile Include="Database\REPORTE_PORTEO_MENOS_VENCIDO_DB.cs" />
+    <Compile Include="Database\Reporte_Tabla_VisitanteDB.cs" />
+    <Compile Include="Database\Reporte_UtilidadesDB.cs" />
+    <Compile Include="Database\TARJETAS_DB.cs" />
+    <Compile Include="Database\TorneoDB.cs" />
+    <Compile Include="Database\UsuariosDB.cs" />
+    <Compile Include="Database\Vista_Encuentros_DB.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\AlquilarCancha.cs" />
+    <Compile Include="Model\Amonestacion.cs" />
+    <Compile Include="Model\ArbitroAlquilado.cs" />
+    <Compile Include="Model\Arbitro_Partido.cs" />
+    <Compile Include="Model\CAMBIO.cs" />
+    <Compile Include="Model\CANCHA.cs" />
+    <Compile Include="Model\Cliente.cs" />
+    <Compile Include="Model\coachModel.cs" />
+    <Compile Include="Model\disponibilidadCanchas.cs" />
+    <Compile Include="Model\EQUIPO.cs" />
+    <Compile Include="Model\EQUIPO_TORNEO.cs" />
+    <Compile Include="Model\EstadisticaDelEquipo.cs" />
+    <Compile Include="Model\GOL.cs" />
+    <Compile Include="Model\GOLEADOR.cs" />
+    <Compile Include="Model\GOL_ConNombre.cs" />
+    <Compile Include="Model\Horario.cs" />
+    <Compile Include="Model\JUGADORES.cs" />
+    <Compile Include="Model\PAGOS_TAREGTAS.cs" />
+    <Compile Include="Model\Partidos.cs" />
+    <Compile Include="Model\PartidosNombres.cs" />
+    <Compile Include="Model\POSICION_JUGADOR.cs" />
+    <Compile Include="Model\POSICION_JUGADOR_CON_NOMBRE.cs" />
+    <Compile Include="Model\Punteo.cs" />
+    <Compile Include="Model\refereeModel.cs" />
+    <Compile Include="Model\Registro_Amonestacion.cs" />
+    <Compile Include="Model\reporteJuegosAfectadosPorCancha.cs" />
+    <Compile Include="Model\reportePlanillaArbitro.cs" />
+    <Compile Include="Model\reporteUsoCanchasModel.cs" />
+    <Compile Include="Model\REPORTE_LOCAL.cs" />
+    <Compile Include="Model\REPORTE_PORTERO_MENOS_VENCIDO.cs" />
+    <Compile Include="Model\Reporte_Utilidades.cs" />
+    <Compile Include="Model\TABLA_GENERAL.cs" />
+    <Compile Include="Model\Tabla_Visitante.cs" />
+    <Compile Include="Model\TARJETAS.cs" />
+    <Compile Include="Model\Torneos.cs" />
+    <Compile Include="Model\Usuarios.cs" />
+    <Compile Include="Model\Vista_Encuentros.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validaciones.cs" />
+    <Compile Include="View\Agregar_Cancha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Agregar_Cancha.Designer.cs">
+      <DependentUpon>Agregar_Cancha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Bienvenida.Designer.cs">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ComenzarPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ComenzarPartido.Designer.cs">
+      <DependentUpon>ComenzarPartido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUDArbitro_Partido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUDArbitro_Partido.designer.cs">
+      <DependentUpon>CRUDArbitro_Partido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUD_AMONESTACION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUD_AMONESTACION.Designer.cs">
+      <DependentUpon>CRUD_AMONESTACION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUD_ARBITROS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUD_ARBITROS.Designer.cs">
+      <DependentUpon>CRUD_ARBITROS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUD_CAMBIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUD_CAMBIOS.Designer.cs">
+      <DependentUpon>CRUD_CAMBIOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUD_ENTRENADOR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUD_ENTRENADOR.Designer.cs">
+      <DependentUpon>CRUD_ENTRENADOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUD_EQUIPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUD_EQUIPO.Designer.cs">
+      <DependentUpon>CRUD_EQUIPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUD_JUGADORES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUD_JUGADORES.Designer.cs">
+      <DependentUpon>CRUD_JUGADORES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUD_REGISTRO_AMONESTACION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUD_REGISTRO_AMONESTACION.Designer.cs">
+      <DependentUpon>CRUD_REGISTRO_AMONESTACION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUD_TORNEO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUD_TORNEO.Designer.cs">
+      <DependentUpon>CRUD_TORNEO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\detallesPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\detallesPartido.Designer.cs">
+      <DependentUpon>detallesPartido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\disponibilidad_Cancha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\disponibilidad_Cancha.Designer.cs">
+      <DependentUpon>disponibilidad_Cancha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\GOLEADOR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\GOLEADOR.Designer.cs">
+      <DependentUpon>GOLEADOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\JornadasPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\JornadasPartido.Designer.cs">
+      <DependentUpon>JornadasPartido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\MenuIncripcionEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MenuIncripcionEquipo.Designer.cs">
+      <DependentUpon>MenuIncripcionEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\MenuIncripcionJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MenuIncripcionJugador.Designer.cs">
+      <DependentUpon>MenuIncripcionJugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CRUD_GOL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CRUD_GOL.Designer.cs">
+      <DependentUpon>CRUD_GOL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ReporteEstadisticasDelEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ReporteEstadisticasDelEquipo.Designer.cs">
+      <DependentUpon>ReporteEstadisticasDelEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\reporteJuegosAfectados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\reporteJuegosAfectados.Designer.cs">
+      <DependentUpon>reporteJuegosAfectados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\reportePlanillaArbitro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\reportePlanillaArbitro.Designer.cs">
+      <DependentUpon>reportePlanillaArbitro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Reporte_punteo_general.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Reporte_punteo_general.Designer.cs">
+      <DependentUpon>Reporte_punteo_general.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Reporte_Tabla_Visitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Reporte_Tabla_Visitante.Designer.cs">
+      <DependentUpon>Reporte_Tabla_Visitante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Reporte_Utilidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Reporte_Utilidades.Designer.cs">
+      <DependentUpon>Reporte_Utilidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\TARJETAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\TARJETAS.Designer.cs">
+      <DependentUpon>TARJETAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\tiempoUsoCanchas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\tiempoUsoCanchas.Designer.cs">
+      <DependentUpon>tiempoUsoCanchas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsuariosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\UsuariosView.Designer.cs">
+      <DependentUpon>UsuariosView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewAlquilerCancha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewAlquilerCancha.Designer.cs">
+      <DependentUpon>ViewAlquilerCancha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewCliente.Designer.cs">
+      <DependentUpon>ViewCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewHorario.Designer.cs">
+      <DependentUpon>ViewHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewLogin.Designer.cs">
+      <DependentUpon>ViewLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewReporteBitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewReporteBitacora.Designer.cs">
+      <DependentUpon>ViewReporteBitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewReporteDisponibilidadCancha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewReporteDisponibilidadCancha.Designer.cs">
+      <DependentUpon>ViewReporteDisponibilidadCancha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewReporteIngresoCancha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewReporteIngresoCancha.Designer.cs">
+      <DependentUpon>ViewReporteIngresoCancha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewReporteIngresosArbitraje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewReporteIngresosArbitraje.Designer.cs">
+      <DependentUpon>ViewReporteIngresosArbitraje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\vISTA_ENCUENTROS_WIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\vISTA_ENCUENTROS_WIN.Designer.cs">
+      <DependentUpon>vISTA_ENCUENTROS_WIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\VISTA_PAGOS_TARGETAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\VISTA_PAGOS_TARGETAS.Designer.cs">
+      <DependentUpon>VISTA_PAGOS_TARGETAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\VISTA_PORTERO_MENOS_VENCIDO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\VISTA_PORTERO_MENOS_VENCIDO.Designer.cs">
+      <DependentUpon>VISTA_PORTERO_MENOS_VENCIDO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\VISTA_REPORTE_LOCAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\VISTA_REPORTE_LOCAL.Designer.cs">
+      <DependentUpon>VISTA_REPORTE_LOCAL.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\Agregar_Cancha.resx">
+      <DependentUpon>Agregar_Cancha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Bienvenida.resx">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ComenzarPartido.resx">
+      <DependentUpon>ComenzarPartido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUDArbitro_Partido.resx">
+      <DependentUpon>CRUDArbitro_Partido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUD_AMONESTACION.resx">
+      <DependentUpon>CRUD_AMONESTACION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUD_ARBITROS.resx">
+      <DependentUpon>CRUD_ARBITROS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUD_CAMBIOS.resx">
+      <DependentUpon>CRUD_CAMBIOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUD_ENTRENADOR.resx">
+      <DependentUpon>CRUD_ENTRENADOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUD_EQUIPO.resx">
+      <DependentUpon>CRUD_EQUIPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUD_JUGADORES.resx">
+      <DependentUpon>CRUD_JUGADORES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUD_REGISTRO_AMONESTACION.resx">
+      <DependentUpon>CRUD_REGISTRO_AMONESTACION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUD_TORNEO.resx">
+      <DependentUpon>CRUD_TORNEO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\detallesPartido.resx">
+      <DependentUpon>detallesPartido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\disponibilidad_Cancha.resx">
+      <DependentUpon>disponibilidad_Cancha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\GOLEADOR.resx">
+      <DependentUpon>GOLEADOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\JornadasPartido.resx">
+      <DependentUpon>JornadasPartido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\MenuIncripcionEquipo.resx">
+      <DependentUpon>MenuIncripcionEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\MenuIncripcionJugador.resx">
+      <DependentUpon>MenuIncripcionJugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CRUD_GOL.resx">
+      <DependentUpon>CRUD_GOL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ReporteEstadisticasDelEquipo.resx">
+      <DependentUpon>ReporteEstadisticasDelEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\reporteJuegosAfectados.resx">
+      <DependentUpon>reporteJuegosAfectados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\reportePlanillaArbitro.resx">
+      <DependentUpon>reportePlanillaArbitro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reporte_punteo_general.resx">
+      <DependentUpon>Reporte_punteo_general.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reporte_Tabla_Visitante.resx">
+      <DependentUpon>Reporte_Tabla_Visitante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reporte_Utilidades.resx">
+      <DependentUpon>Reporte_Utilidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\TARJETAS.resx">
+      <DependentUpon>TARJETAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\tiempoUsoCanchas.resx">
+      <DependentUpon>tiempoUsoCanchas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UsuariosView.resx">
+      <DependentUpon>UsuariosView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewAlquilerCancha.resx">
+      <DependentUpon>ViewAlquilerCancha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewCliente.resx">
+      <DependentUpon>ViewCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewHorario.resx">
+      <DependentUpon>ViewHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewLogin.resx">
+      <DependentUpon>ViewLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewReporteBitacora.resx">
+      <DependentUpon>ViewReporteBitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewReporteDisponibilidadCancha.resx">
+      <DependentUpon>ViewReporteDisponibilidadCancha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewReporteIngresoCancha.resx">
+      <DependentUpon>ViewReporteIngresoCancha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewReporteIngresosArbitraje.resx">
+      <DependentUpon>ViewReporteIngresosArbitraje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\vISTA_ENCUENTROS_WIN.resx">
+      <DependentUpon>vISTA_ENCUENTROS_WIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\VISTA_PAGOS_TARGETAS.resx">
+      <DependentUpon>VISTA_PAGOS_TARGETAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\VISTA_PORTERO_MENOS_VENCIDO.resx">
+      <DependentUpon>VISTA_PORTERO_MENOS_VENCIDO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\VISTA_REPORTE_LOCAL.resx">
+      <DependentUpon>VISTA_REPORTE_LOCAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\barraLineasMenu.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

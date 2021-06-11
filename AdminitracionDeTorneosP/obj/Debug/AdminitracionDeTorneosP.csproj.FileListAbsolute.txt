@@ -1,0 +1,280 @@
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe.config
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csprojAssemblyReference.cache
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Properties.Resources.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.GenerateResource.cache
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Form1.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Bienvenida.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionJugador.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionEquipo.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Torneo2.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ComenzarPartido.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.JornadasPartido.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_GOL.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_ENTRENADOR.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_EQUIPO.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Agregar_Cancha.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_CAMBIOS.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_JUGADORES.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_REGISTRO_AMONESTACION.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.disponibilidad_Cancha.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vISTA_ENCUENTROS_WIN.resources
+C:\Users\Erick Echeverría\Desktop\SPRINT 2\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PAGOS_TARGETAS.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe.config
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csprojAssemblyReference.cache
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Form1.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Properties.Resources.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Agregar_Cancha.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Bienvenida.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ComenzarPartido.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_AMONESTACION.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_CAMBIOS.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_ENTRENADOR.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_EQUIPO.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_JUGADORES.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_REGISTRO_AMONESTACION.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Torneo2.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.disponibilidad_Cancha.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.JornadasPartido.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionEquipo.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionJugador.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_GOL.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vISTA_ENCUENTROS_WIN.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PAGOS_TARGETAS.resources
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.GenerateResource.cache
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\juceg\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUDArbitro_Partido.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csprojAssemblyReference.cache
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Form1.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Properties.Resources.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Bienvenida.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ComenzarPartido.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUDArbitro_Partido.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_AMONESTACION.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_CAMBIOS.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_ENTRENADOR.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_EQUIPO.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_JUGADORES.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_REGISTRO_AMONESTACION.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Torneo2.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.disponibilidad_Cancha.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.JornadasPartido.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionEquipo.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionJugador.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_GOL.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vISTA_ENCUENTROS_WIN.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PAGOS_TARGETAS.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.GenerateResource.cache
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Agregar_Cancha.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe.config
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csprojAssemblyReference.cache
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Form1.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Properties.Resources.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Agregar_Cancha.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Bienvenida.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ComenzarPartido.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUDArbitro_Partido.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_AMONESTACION.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_CAMBIOS.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_ENTRENADOR.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_EQUIPO.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_JUGADORES.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_REGISTRO_AMONESTACION.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Torneo2.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.disponibilidad_Cancha.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.JornadasPartido.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionEquipo.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionJugador.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_GOL.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vISTA_ENCUENTROS_WIN.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PAGOS_TARGETAS.resources
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.GenerateResource.cache
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Erick Echeverría\Downloads\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe.config
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Erick Echeverría\Desktop\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.detallesPartido.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe.config
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Form1.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Properties.Resources.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Agregar_Cancha.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Bienvenida.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ComenzarPartido.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUDArbitro_Partido.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_AMONESTACION.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_CAMBIOS.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_ENTRENADOR.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_EQUIPO.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_JUGADORES.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_REGISTRO_AMONESTACION.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Torneo2.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.detallesPartido.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.disponibilidad_Cancha.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.JornadasPartido.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionEquipo.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionJugador.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_GOL.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vISTA_ENCUENTROS_WIN.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PAGOS_TARGETAS.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_REPORTE_LOCAL.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.GenerateResource.cache
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PORTERO_MENOS_VENCIDO.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Tabla_Visitante.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reporteJuegosAfectados.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.GOLEADOR.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reportePlanillaArbitro.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.tiempoUsoCanchas.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Utilidades.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_punteo_general.resources
+C:\Users\bryan\OneDrive\Documents\union de proyectos\Proyecto Base a trabajar\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.TARJETAS.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe.config
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csprojAssemblyReference.cache
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Form1.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Properties.Resources.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Agregar_Cancha.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Bienvenida.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ComenzarPartido.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUDArbitro_Partido.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_AMONESTACION.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_CAMBIOS.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_ENTRENADOR.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_EQUIPO.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_JUGADORES.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_REGISTRO_AMONESTACION.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Torneo2.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.detallesPartido.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.disponibilidad_Cancha.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.GOLEADOR.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.JornadasPartido.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionEquipo.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionJugador.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_GOL.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reporteJuegosAfectados.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reportePlanillaArbitro.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_punteo_general.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Tabla_Visitante.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Utilidades.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.TARJETAS.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.tiempoUsoCanchas.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vISTA_ENCUENTROS_WIN.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PAGOS_TARGETAS.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PORTERO_MENOS_VENCIDO.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_REPORTE_LOCAL.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.GenerateResource.cache
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Erick Echeverría\Desktop\Proyecto Final\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ReporteEstadisticasDelEquipo.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe.config
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csprojAssemblyReference.cache
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Form1.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Properties.Resources.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Agregar_Cancha.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Bienvenida.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ComenzarPartido.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUDArbitro_Partido.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_AMONESTACION.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_CAMBIOS.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_ENTRENADOR.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_EQUIPO.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_JUGADORES.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_REGISTRO_AMONESTACION.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Torneo2.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.detallesPartido.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.disponibilidad_Cancha.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.GOLEADOR.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.JornadasPartido.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionEquipo.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionJugador.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_GOL.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ReporteEstadisticasDelEquipo.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reporteJuegosAfectados.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reportePlanillaArbitro.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_punteo_general.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Tabla_Visitante.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Utilidades.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.TARJETAS.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.tiempoUsoCanchas.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vISTA_ENCUENTROS_WIN.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PAGOS_TARGETAS.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PORTERO_MENOS_VENCIDO.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_REPORTE_LOCAL.resources
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.GenerateResource.cache
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
+C:\Users\juceg\OneDrive\Escritorio\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe.config
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csprojAssemblyReference.cache
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Form1.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Properties.Resources.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Agregar_Cancha.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Bienvenida.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ComenzarPartido.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUDArbitro_Partido.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_AMONESTACION.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_CAMBIOS.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_ENTRENADOR.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_EQUIPO.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_JUGADORES.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_REGISTRO_AMONESTACION.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Torneo2.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.detallesPartido.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.disponibilidad_Cancha.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.GOLEADOR.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.JornadasPartido.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionEquipo.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionJugador.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_GOL.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ReporteEstadisticasDelEquipo.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reporteJuegosAfectados.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reportePlanillaArbitro.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_punteo_general.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Tabla_Visitante.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Utilidades.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.TARJETAS.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.tiempoUsoCanchas.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vISTA_ENCUENTROS_WIN.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PAGOS_TARGETAS.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PORTERO_MENOS_VENCIDO.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_REPORTE_LOCAL.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.GenerateResource.cache
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.refereeView.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.UsuariosView.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ViewCliente.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ViewHorario.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ViewLogin.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ViewAlquilerCancha.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ViewReporteIngresoCancha.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ViewReporteIngresosArbitraje.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ViewReporteBitacora.resources
+C:\Users\rcast\Documents\PROYECTO\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ViewReporteDisponibilidadCancha.resources
